@@ -1,0 +1,4 @@
+- 編號規則
+    - A: Gemini
+    - B: IRR
+    - C: GPT
