@@ -70,3 +70,4 @@
     *   **劣勢:** 在議題覆蓋的廣度上偶爾略遜於對手；篇幅有時較長，需要投入更多閱讀時間。
 
 ## 實驗分析part2
+- [分析報告](https://github.com/tingjunchen425/IRR/blob/main/AnasyzeReport.md)
